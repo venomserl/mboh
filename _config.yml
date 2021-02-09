@@ -7,7 +7,7 @@ title: Serpihan Link
 subtitle: ''
 description: ''
 keywords:
-author: Jarvis
+author: Aileen Wallace
 language: en
 timezone: ''
 
@@ -104,11 +104,6 @@ theme: volantis-dev
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-search:
-  path: search.xml
-  field: post
-  
 
 feed:
   type: atom
