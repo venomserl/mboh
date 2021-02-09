@@ -5,7 +5,7 @@ media_folder: source/images
 public_folder: /images
 collections:
   - name: all_posts
-    fields:
+    fields: &ref_0
       - label: Title
         name: title
         widget: string
@@ -45,4 +45,28 @@ collections:
   - label: Page
     name: pages
     delete: false
-    files: []
+    files:
+      - name: 404-index.md
+        label: '404'
+        file: source/404/index.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: about-index.md
+        label: About
+        file: source/about/index.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: categories-index.md
+        label: Categories
+        file: source/categories/index.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: tags-index.md
+        label: Tags
+        file: source/tags/index.md
+        editor:
+          preview: true
+        fields: *ref_0
