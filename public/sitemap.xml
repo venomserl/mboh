@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://serpihan.link/2021/02/10/I-Tonya-2017/</loc>
+    
+    <lastmod>2021-02-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/googledf90c378bea66711.html</loc>
+    
+    <lastmod>2021-02-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://serpihan.link/tags/index.html</loc>
     
     <lastmod>2021-02-10</lastmod>
@@ -59,6 +73,27 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://serpihan.link/tags/Biography/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/tags/Comedy/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/tags/Sport/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -70,6 +105,20 @@
   
   <url>
     <loc>https://serpihan.link/categories/Movies/2020/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/categories/Movies/BluRay/</loc>
+    <lastmod>2021-02-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/categories/Movies/BluRay/2017/</loc>
     <lastmod>2021-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
