@@ -215,8 +215,8 @@ comments:
     path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是valine的问题
     placeholder: Write message here~  # 评论占位提示
     # 其他配置项按照yml格式继续填写即可 除了 [el path placeholder emojiCDN emojiMaps] 选项
-    appId: # your appId
-    appKey: # your appKey
+    appId: NSBQlNfClQ9T6wAvFpuSU11n-MdYXbMMI # your appId
+    appKey: RNORua1ky8dHcT8jmoDfJURL # your appKey
     meta: [nick,mail,link] # valine comment header info
     requiredFields: [nick,mail]
     enableQQ: true # Unstable avatar link
@@ -361,7 +361,7 @@ sidebar:
     # category widget
     category:
       class: category
-      display: [desktop] # [desktop, mobile]
+      display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fas fa-folder-open
         title: Categories
