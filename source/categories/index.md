@@ -1,5 +1,5 @@
 ---
+layout: category
+index: true
 title: Categories
-type: "categories"
-layout: "categories"
 ---

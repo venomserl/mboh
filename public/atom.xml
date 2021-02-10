@@ -6,7 +6,7 @@
   <link href="https://serpihan.link/atom.xml" rel="self"/>
   
   <link href="https://serpihan.link/"/>
-  <updated>2021-02-08T12:26:30.497Z</updated>
+  <updated>2021-02-09T16:59:12.043Z</updated>
   <id>https://serpihan.link/</id>
   
   <author>
@@ -15,56 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Test CMS</title>
-    <link href="https://serpihan.link/2021/02/08/test-cms/"/>
-    <id>https://serpihan.link/2021/02/08/test-cms/</id>
-    <published>2021-02-08T12:22:25.000Z</published>
-    <updated>2021-02-08T12:26:30.497Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/img_20210202_191219_528.jpg&quot; class=&quot;lazyload placeholder&quot; data-srcset=&quot;/images/img_20210202_191219_528.jpg&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="First" scheme="https://serpihan.link/categories/First/"/>
-    
-    <category term="two" scheme="https://serpihan.link/categories/First/two/"/>
-    
-    
-    <category term="Test" scheme="https://serpihan.link/tags/Test/"/>
-    
-    <category term="CMS" scheme="https://serpihan.link/tags/CMS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://serpihan.link/2021/02/08/hello-world/"/>
-    <id>https://serpihan.link/2021/02/08/hello-world/</id>
-    <published>2021-02-08T09:10:03.852Z</published>
-    <updated>2021-02-08T09:10:03.852Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a target=&quot;_blank&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Jose (2020)</title>
