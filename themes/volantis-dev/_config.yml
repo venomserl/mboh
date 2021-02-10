@@ -20,9 +20,9 @@ info:
 navbar:
   visiable: always # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://ik.imagekit.io/zfhpinue3eb/tr:w-300,h-300,c-force/logon_ZRaeh_LYz.png
+    img: #https://ik.imagekit.io/zfhpinue3eb/tr:w-300,h-300,c-force/logon_ZRaeh_LYz.png
     icon:
-    title:
+    title: ∆
   menu:
     - name: Home
       icon: fas fa-home
