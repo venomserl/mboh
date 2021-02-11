@@ -10,7 +10,6 @@ tags:
   - Comedy
   - Drama
   - Sport
-cover: true
 sitemap: true
 ---
 
@@ -28,9 +27,10 @@ Apa yang sebenarnya terjadi? Kemudian bagaimana karir Tonya setelah kasus ini mu
 - Pemeran: Allison Janney, Julianne Nicholson, Margot Robbie, Paul Walter Hauser, Sebastian Stan
 - Sutradara: Craig Gillespie
 - Negara: US
+- Genre: [Biography](https://serpihan.link/tags/biography), [Comedy](https://serpihan.link/tags/comedy), [Drama](https://serpihan.link/tags/drama), [Sport](https://serpihan.link/tags/sport)
+- Subtitle: Hardsub Indonesia
 
 ##### Nonton I, Tonya #####
-
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://mixdrop.to/e/j94g7oemu41j46" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title=""></iframe>
