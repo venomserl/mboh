@@ -20,7 +20,7 @@ info:
 navbar:
   visiable: always # always, auto
   logo: # choose [img] or [icon + title]
-    img: /images/dark_logo_transparent.svg
+    img: /ser.svg
     icon:
     title: 
   menu:
