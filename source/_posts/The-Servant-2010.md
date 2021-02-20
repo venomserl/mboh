@@ -9,6 +9,8 @@ tags:
   - Drama
   - Romance
 sitemap: true
+thumbnail: https://www.flixwatch.co/wp-content/uploads/70201183.jpg
+cover: false
 ---
 
 ![](https://www.flixwatch.co/wp-content/uploads/70201183.jpg)
