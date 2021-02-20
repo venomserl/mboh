@@ -23,7 +23,7 @@ Keponakan Go-ni, Ham Dae-gil, memasuki dunia perjudian hanya untuk digunakan seb
 * Sutradara: Hyeong-Cheol Kang
 * Negara: South Korea
 * Genre: [Crime](https://serpihan.linl/tags/crime), [Drama](https://serpihan.link/tags/drama)
-* Subtitle: Harssub Indonesia
+* Subtitle: Hardsub Indonesia
 
 ##### Nonton Tazza: The Hidden Card 2014 #####
 

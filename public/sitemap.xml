@@ -2,108 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://serpihan.link/2021/02/19/The-Servant-2010/</loc>
+    
+    <lastmod>2021-02-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://serpihan.link/2021/02/11/Tazza-The-Hidden-Card-2014/</loc>
     
-    <lastmod>2021-02-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://serpihan.link/2021/02/10/I-Tonya-2017/</loc>
-    
-    <lastmod>2021-02-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://serpihan.link/googledf90c378bea66711.html</loc>
-    
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
     <loc>https://serpihan.link/tags/index.html</loc>
     
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://serpihan.link/categories/index.html</loc>
+    <loc>https://serpihan.link/googledf90c378bea66711.html</loc>
     
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://serpihan.link/about/index.html</loc>
+    <loc>https://serpihan.link/2021/02/10/I-Tonya-2017/</loc>
     
-    <lastmod>2021-02-10</lastmod>
+    <lastmod>2021-02-18</lastmod>
     
   </url>
   
   <url>
     <loc>https://serpihan.link/2021/01/29/Jose-2020/</loc>
     
-    <lastmod>2021-02-09</lastmod>
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/about/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/categories/index.html</loc>
+    
+    <lastmod>2021-02-18</lastmod>
     
   </url>
   
 
   <url>
     <loc>https://serpihan.link/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://serpihan.link/tags/Drama/</loc>
-    <lastmod>2021-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://serpihan.link/tags/Tragic/</loc>
-    <lastmod>2021-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://serpihan.link/tags/Romance/</loc>
-    <lastmod>2021-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://serpihan.link/tags/Biography/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/tags/Comedy/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/tags/Drama/</loc>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/tags/Sport/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/tags/Tragic/</loc>
+    <lastmod>2021-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/tags/Romance/</loc>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/tags/Crime/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,35 +119,42 @@
   
   <url>
     <loc>https://serpihan.link/categories/Movies/</loc>
-    <lastmod>2021-02-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://serpihan.link/categories/Movies/2020/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/categories/Movies/BluRay/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/categories/Movies/2020/</loc>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/categories/Movies/BluRay/2017/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://serpihan.link/categories/Movies/BluRay/2014/</loc>
-    <lastmod>2021-02-11</lastmod>
+    <lastmod>2021-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://serpihan.link/categories/Movies/BluRay/2010/</loc>
+    <lastmod>2021-02-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
