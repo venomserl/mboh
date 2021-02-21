@@ -55,7 +55,7 @@ cover:
     archive: true
     others: false # can be written in front-matter 'cover: true'
   #background: https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture
-  background: #https://bing.ioliu.cn/v1/rand?w=1280&h=720
+  background: https://bing.ioliu.cn/v1/rand?w=1280&h=720
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 'Serlink'
   subtitle: 'Without you, my world is nothing'
